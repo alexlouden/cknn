@@ -1,0 +1,20 @@
+{
+  "name": "cknn",
+  "version": "0.0.1",
+  "description": "Continous K Nearest Neighbours",
+  "homepage": "http://alexlouden.com/cknn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexlouden/cknn.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-haml": "latest",
+    "grunt-contrib-coffee": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-compass": "latest",
+    "grunt-contrib-connect": "latest",
+    "grunt-contrib-watch": "latest"
+  }
+}
